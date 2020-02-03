@@ -4,4 +4,4 @@
 
 #### Phase2: Combining Reducers
 
-
+#### Phase3: Adding Middleware i.e Async with Redux
